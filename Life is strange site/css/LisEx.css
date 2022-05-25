@@ -1,0 +1,203 @@
+.buton{
+    display: flex;
+    background-color: black;
+    text-align: center;        
+    }
+
+#botao1{
+    display: flex;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    justify-content: center;
+    width: 20%;
+    height: 50px;
+    line-height: 50px;
+}
+
+#botao1:hover{
+    visibility: hidden;
+}
+#botao2{
+    display: flex;    
+    background-color: black;
+    color: white;    
+    text-decoration: none;
+    justify-content: center;
+    width: 20%;
+    height: 50px;
+    line-height: 50px;
+}
+
+#botao2:hover{
+    visibility: hidden;
+}
+
+#titulo{
+    background-color: black;
+    color: aliceblue;
+    font-size: 30px;
+    text-align: center;
+}
+
+#botao3{
+    display: flex;
+   
+    background-color: black;
+    color: white;    
+    text-decoration: none;
+    justify-content: center;
+    width: 20%;
+    height: 50px;
+    line-height: 50px;
+}
+
+#botao3:hover{
+    visibility: hidden;
+}
+
+#botao4{
+    display: flex;
+   
+    background-color: black;
+    color: white;    
+    text-decoration: none;
+    justify-content: center;
+    width: 20%;
+    height: 50px;
+    line-height: 50px;
+}
+
+#botao4:hover{
+    visibility: hidden;
+}
+
+#botao5{
+    display: flex;
+    
+    background-color: black;
+    color: white;    
+    text-decoration: none;
+    justify-content: center;
+    width: 20%;
+    height: 50px;
+    line-height: 50px;
+}
+
+#botao5:hover{
+    visibility: hidden;
+}
+
+#logo{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#texto1{
+    font-size: 22px;
+    text-align: justify;
+    margin-left: 50%;
+    padding-right: 15px;
+}
+
+#capa{
+    width: auto;
+    height: 415px;
+    float: left;    
+}
+
+.capas{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.textoJogos{    
+    font-size: 25px; 
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: center;
+ }
+ .lst{
+    display:inline-block;
+    width: 30%;
+    height: 40px;     
+ }
+ .ls1{
+     position: relative;
+     right: 17%;
+     text-align: center;
+ }
+
+ .ls2{
+    position: relative;
+    left: 9%;
+    text-align: center;
+
+ }
+
+ .ls3{
+    position: relative;
+    left: 26%;
+    text-align: center;
+ }
+
+ .games{
+     font-size: 25px;
+     text-align: center;
+     position: relative;
+     left: 1%;
+     color: darkblue;
+     font-style: bold;
+ }
+
+
+#texto2{
+    font-size: 21px;
+    text-align: justify;
+    margin-right: 45%;
+    padding: 10px;
+}
+
+#comic{
+    width: auto;
+    height: 390px;
+    float: right; 
+}
+
+#video{
+    float: left;
+    padding-left: 10px;
+    
+}
+
+.txtVD{
+    color: aliceblue;
+    margin: 30px;
+    padding: 20px;
+    font-size: 25px;
+    width: 55%;
+    height: 265px;
+    background-color: darkgrey;
+    text-align: justify;    
+    border: 3px solid white; 
+    border-radius: 20px;
+    margin-left: 40%;
+}
+
+.rodape{
+    background-color: black;
+    color: aliceblue;
+    font-size: 25px;
+    text-align: center;
+    padding: 30px;
+}
+
+table{
+    
+}
+
+    
+    
+    
